@@ -52,6 +52,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | GAN Generator | Implement a GAN generator that transforms latent noise through learned dense layers into generated samples. | https://www.tensortonic.com/research/gan/gan-generator |
 | GAN Loss Functions | Compute numerically stable binary cross-entropy losses for the GAN generator and discriminator objectives. | https://www.tensortonic.com/research/gan/gan-loss |
 | Position-wise Feed-Forward Network | Implement the GPT-2 position-wise feed-forward network with expansion, GELU activation, and output projection. | https://www.tensortonic.com/research/gpt2/gpt2-ffn |
+| MXFP4 Routed Expert Linear | Implement Kimi K3 MXFP4 expert linear layers by decoding packed E2M1 values and E8M0 block scales before projection. | https://www.tensortonic.com/research/kimik3/k3-mxfp4-expert-linear |
 | Complete LSTM Cell | Build a complete LSTM cell with forget, input, candidate, cell-state, output, and hidden-state calculations. | https://www.tensortonic.com/research/lstm/lstm-cell |
 | Cell State Update | Implement the LSTM cell-state update by combining retained memory with input-gated candidate information. | https://www.tensortonic.com/research/lstm/lstm-cell-state |
 | Forget Gate | Implement an LSTM forget gate by combining the previous hidden state and current input with a sigmoid projection. | https://www.tensortonic.com/research/lstm/lstm-forget-gate |
