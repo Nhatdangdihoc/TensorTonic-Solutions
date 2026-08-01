@@ -40,6 +40,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | RMSProp Optimizer (Single Update Step) | Implement one RMSProp update in NumPy using an exponential squared-gradient average and adaptive scaling. | https://www.tensortonic.com/problems/rmsprop-optimizer |
 | Implement Sigmoid in NumPy | Implement a vectorized sigmoid activation in NumPy for scalars, lists, vectors, and matrices, including large positive and negative inputs. | https://www.tensortonic.com/problems/sigmoid-numpy |
 | Implement a Simple CNN Layer (NumPy) | Implement a NumPy CNN layer forward pass with batched valid convolution across channels and bias addition. | https://www.tensortonic.com/problems/simple-cnn-layer |
+| One-Step TD Value Update | Perform one temporal-difference value update from reward, discount, next-state value, and learning rate. | https://www.tensortonic.com/problems/td-value-update |
 | Value Iteration Step | Perform one Bellman optimality update across states and actions for a tabular Markov decision process. | https://www.tensortonic.com/problems/value-iteration-step |
 | Coarse-Grained MoE Feedforward Block | Implement Arcee Trinity's coarse-grained MoE feed-forward block with top-k routing and expert output aggregation. | https://www.tensortonic.com/research/arcee-trinity/at-coarse-moe |
 | Interleaved RoPE + NoPE Layer Pattern | Route Arcee Trinity layers through an interleaved pattern of rotary-position and NoPE attention. | https://www.tensortonic.com/research/arcee-trinity/at-interleaved |
