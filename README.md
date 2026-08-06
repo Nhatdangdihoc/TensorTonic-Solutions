@@ -53,6 +53,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | GAN Discriminator | Implement a GAN discriminator that maps input samples through dense layers to real-versus-fake probabilities. | https://www.tensortonic.com/research/gan/gan-discriminator |
 | GAN Generator | Implement a GAN generator that transforms latent noise through learned dense layers into generated samples. | https://www.tensortonic.com/research/gan/gan-generator |
 | GAN Loss Functions | Compute numerically stable binary cross-entropy losses for the GAN generator and discriminator objectives. | https://www.tensortonic.com/research/gan/gan-loss |
+| RMSNorm | Implement GLM-4.5 RMSNorm by scaling hidden states with inverse root-mean-square magnitude and learned weights. | https://www.tensortonic.com/research/glm45/glm-rmsnorm |
 | Position-wise Feed-Forward Network | Implement the GPT-2 position-wise feed-forward network with expansion, GELU activation, and output projection. | https://www.tensortonic.com/research/gpt2/gpt2-ffn |
 | MXFP4 Routed Expert Linear | Implement Kimi K3 MXFP4 expert linear layers by decoding packed E2M1 values and E8M0 block scales before projection. | https://www.tensortonic.com/research/kimik3/k3-mxfp4-expert-linear |
 | Complete LSTM Cell | Build a complete LSTM cell with forget, input, candidate, cell-state, output, and hidden-state calculations. | https://www.tensortonic.com/research/lstm/lstm-cell |
